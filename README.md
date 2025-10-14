@@ -10,7 +10,9 @@ Spring auto-configure documentation https://docs.spring.io/spring-boot/api/java/
 
 List of properties in application.yml file https://docs.spring.io/spring-boot/appendix/application-properties/index.html?utm_source=chatgpt.com#appendix.application-properties.data
 
-if you want to know about property in auto configure go to 
+If you want to know about property mapping from application.yml to Spring bean, ask a question to gpt below with the property name
+
+class holds the configuration values from your application.properties or application.yml for the prefix <spring.datasource.*>:
 
 # Jakarta resource 
 
