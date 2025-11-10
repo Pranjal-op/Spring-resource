@@ -25,3 +25,5 @@ class holds the configuration values from your application.properties or applica
 For Jakarta documentation, go to https://jakarta.ee/specifications/
 
 Jakarta persistence documentation https://jakarta.ee/specifications/persistence/3.2/apidocs/jakarta.persistence/jakarta/persistence/package-summary
+
+Jakarta Validation 3.1 annotation list https://jakarta.ee/specifications/bean-validation/3.1/apidocs/jakarta/validation/constraints/package-summary
